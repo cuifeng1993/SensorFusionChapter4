@@ -24,14 +24,22 @@
 
 ### 优秀要求：在建图的基础上，实现全局初始化的要求
 需要在“gnss_data.cpp”中给定初始化的经纬高的参数，结果如下图：
+
 在100s处初始化：
+
 <img src="doc/play_100s.png" alt="play_100s" width="60%">
 
+
 在200s处初始化：
+
 <img src="doc/play_200s.png" alt="play_200s" width="60%">
 
+
 在300s处初始化：
+
 <img src="doc/play_300s.png" alt="play_300s" width="60%">
 
+
 在400s处初始化：
+
 <img src="doc/play_400s.png" alt="play_400s" width="60%">
